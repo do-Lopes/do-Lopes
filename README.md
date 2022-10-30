@@ -2,7 +2,7 @@
 Sou estudante de Engenharia de Computação apaixonado por programação e as novas tecnologias, participo continuamente de projetos para encontrar novos desafios e melhorar minhas Soft skills. 
 
 ### Learning
-* Python, Java, C, C++, Javascript, HTML, CSS, SQL
+* Python, Java, C, C++, Javascript, HTML, CSS, mySQL e PostgreSQL
 
 ### Como me encontrar?
 * [Linkedin](https://www.linkedin.com/in/leonardo-lopes-8a38a3215/)
