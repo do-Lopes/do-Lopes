@@ -2,7 +2,7 @@
 Sou estudante de Engenharia de Computação apaixonado por programação e as novas tecnologias, participo continuamente de projetos para encontrar novos desafios e melhorar minhas Soft skills. 
 
 ### Learning
-* Python, Java, C, C++, Javascript, HTML, CSS, mySQL e PostgreSQL
+* Python, Java, C, C++, Javascript, HTML, CSS, mySQL, PostgreSQL, NoSQL, Django, Node, Vue, React
 
 ### Como me encontrar?
 * [Linkedin](https://www.linkedin.com/in/leonardo-lopes-8a38a3215/)
@@ -12,4 +12,5 @@ Sou estudante de Engenharia de Computação apaixonado por programação e as no
 * [Loja de Roupas](https://github.com/do-Lopes/Projeto_loja)
 * [Sistema Escolar](https://github.com/do-Lopes/Projeto_escola)
 * [Bot para envio de noticias](https://github.com/do-Lopes/Projeto-Bot-Web-Scraping)
+* [Backend de serviço de armazenamento de artigos](https://github.com/do-Lopes/Projeto_Backend)
 
