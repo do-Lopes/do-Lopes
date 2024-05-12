@@ -3,8 +3,8 @@
 
 <h3 align="center">🔎Onde me encontrar:</h3>
 <div align="center">
-    <a href="https://linkedin.com/in/leonardo-lopes-8a38a3215">   
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="leonardo-lopes-8a38a3215"/>
+    <a href="https://www.linkedin.com/in/do-lopes/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="perfil-leonardo-lopes"/>
     </a>
     <a href="mailto:leo2006lopes@gmail.com">
         <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white></img>
