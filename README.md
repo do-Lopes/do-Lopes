@@ -13,7 +13,7 @@
 
 <div align=center dir="auto">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=do-lopes&show_icons=true&theme=dracula" alt="do-lopes-top-stats" style="max-width: 100%;"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=do-lopes&show_icons=true&theme=dracula&layout=compact" alt="do-lopes-top-languages" style="max-width: 100%;"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=do-lopes&show_icons=true&theme=dracula&layout=compact&exclude_repo=Projeto-Bot-Web-Scraping" alt="do-lopes-top-languages" style="max-width: 100%;"/>
 </div>
 
 <h3 align="center">📎Linguagens de programação:</h3>
